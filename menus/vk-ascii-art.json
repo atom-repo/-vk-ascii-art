@@ -1,0 +1,30 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Toggle vk-ascii-art",
+                "command": "vk-ascii-art:toggle"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "vk-ascii-art",
+                    "submenu": [
+                        {
+                            "label": "Toggle",
+                            "command": "vk-ascii-art:toggle"
+                        },
+                        {
+                            "label": "Convert",
+                            "command": "vk-ascii-art:convert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

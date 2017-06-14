@@ -1,14 +1,14 @@
 {
     "name": "vk-ascii-art",
     "main": "./lib/vk-ascii-art",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "A short description of your package",
     "keywords": [
     ],
     "activationCommands": {
         "atom-workspace": "vk-ascii-art:convert"
     },
-    "repository": "https://github.com/atom/vk-ascii-art",
+    "repository": "https://github.com/atom-repo/-vk-ascii-art",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
